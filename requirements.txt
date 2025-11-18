@@ -9,9 +9,9 @@ opencv-python==4.8.1.78
 imagehash==4.3.1
 
 # AI/ML for Image Comparison
-sentence-transformers==2.2.2
-torch==2.1.0
-torchvision==0.16.0
+sentence-transformers==2.7.0
+torch==2.3.0
+torchvision==0.18.0
 
 # Utilities
 numpy==1.26.2
