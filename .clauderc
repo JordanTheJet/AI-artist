@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ai-artist": {
+      "command": "/Users/jordantian/Documents/AI-artist/AI-artist/mcp-venv/bin/python",
+      "args": [
+        "/Users/jordantian/Documents/AI-artist/AI-artist/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
