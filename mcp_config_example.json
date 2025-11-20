@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ai-artist": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/AI-artist/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}

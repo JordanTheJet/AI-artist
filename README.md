@@ -1,6 +1,10 @@
 # AI Artist - Image Comparison API
 
-An AI-powered REST API for intelligent image comparison, featuring character recognition and visual style matching.
+An AI-powered image comparison system for intelligent character recognition and visual style matching.
+
+**Available as:**
+- 🔌 **MCP Server** - Direct integration with Claude Code ([setup guide](MCP_SETUP.md))
+- 🌐 **REST API** - HTTP API for general use (documented below)
 
 ## Features
 
